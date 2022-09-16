@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(166, 203, 235);
+}
+.home{
+    font-style: normal;
+    font-size: large;
+    font-family: cursive;
+    padding-top: 20px;
+}
+div.info > p{
+    font-family: serif;
+    position: relative;
+}
+section:hover{
+    background-color: darkslategrey;
+    color: rgb(235, 197, 235);
+}
+a[href^="#"] {
+    background-color: rosybrown;
+}
+#main{
+    background-color: pink;
+    text-align: center;
+    padding-top: 20px;
+}
+h6.published{
+    color: rgb(112, 112, 212);
+}
+h1{
+    font-family: fantasy;
+}
+.info h4{
+    text-align: center;
+    background-color: plum;
+}
+.info p{
+    text-align: center;
+}
+h3.members{
+    background-color: plum;
+    text-align: center;
+}
